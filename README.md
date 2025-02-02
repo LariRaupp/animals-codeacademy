@@ -37,6 +37,7 @@ npm start
 
 Open http://localhost:3000/ in your browser.
 
+🔗 You can check out the deployed version of this project on [Vercel](https://your-vercel-link.vercel.app])
 
 ## 🛠 Technologies Used ##
 
